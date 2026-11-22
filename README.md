@@ -1,8 +1,5 @@
 # Arbitrage
-This repository covers a bunch of projects, with the end goal of creating a social arbitrage algo-trading bot.
-
-## Overview
-This repository documents my journey from basic Python programming to building a sophisticated social arbitrage algo-trading bot.
+This repository covers a bunch of projects, with the end goal of solidifying my foundations in Python.
 
 ## Month 1
 
